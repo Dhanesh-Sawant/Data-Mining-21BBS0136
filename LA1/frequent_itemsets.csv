@@ -1,0 +1,7 @@
+support,itemsets
+0.46,frozenset({'Convertible'})
+0.37,frozenset({'SUV'})
+0.32,frozenset({'Truck'})
+0.36,frozenset({'Hatchback'})
+0.23,frozenset({'Sedan'})
+0.26,frozenset({'Minivan'})
